@@ -1,0 +1,14 @@
+{
+  "games": [
+    {
+      "id": "meteoro",
+      "title": "Meteoro",
+      "description": "Desvie dos meteoros o máximo que conseguir.",
+      "genre": "Arcade",
+      "version": "1.0",
+      "color1": "#ff7a3d",
+      "color2": "#3b1c8c",
+      "zip": "games/meteoro.zip"
+    }
+  ]
+}
