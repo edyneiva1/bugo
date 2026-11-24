@@ -1,3 +1,4 @@
+
 {
   "games": [
     {
@@ -20,15 +21,17 @@
       "color2": "#1d2b52",
       "cover": "covers/strak38-capa.png",
       "zip": "games/strak38.zip"
+    },
+    {
+      "id": "bugo-gear-2",
+      "title": "BUGO GEAR 2",
+      "description": "Corridas arcade com nitro, garagem, melhorias, combustível, danos e campeonato. Português e English. Preparado para multiplayer.",
+      "genre": "Corrida",
+      "version": "0.1.0",
+      "color1": "#f0a52b",
+      "color2": "#10263b",
+      "cover": "covers/bugo-gear-2-capa.png",
+      "zip": "games/bugo-gear-2.zip"
     }
   ]
-}{
-  "title": "BUGO GEAR 2",
-  "description": "Corridas arcade com garagem, melhorias, combustível, danos, campeonato e suporte preparado para multiplayer. Português e English.",
-  "genre": "Corrida",
-  "year": "2026",
-  "version": "0.1.0",
-  "color1": "#f0a52b",
-  "color2": "#10263b",
-  "entry": "index.html"
 }
