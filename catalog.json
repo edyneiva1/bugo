@@ -22,17 +22,14 @@
       "zip": "games/strak38.zip"
     }
   ]
-},
-    {
-      "id": "strak38",
-      "title": "BUGO STRAK 38",
-      "description": "Tático 3D estilo CS com bots, economia real, pulo, agachar e placar.",
-      "genre": "FPS",
-      "version": "1.3",
-      "color1": "#ffb000",
-      "color2": "#1d2b52",
-      "cover": "covers/strak38-capa.png",
-      "zip": "games/strak38.zip"
-    }
-  ]
+}{
+  "title": "BUGO GEAR 2",
+  "description": "Corridas arcade com garagem, melhorias, combustível, danos, campeonato e suporte preparado para multiplayer. Português e English.",
+  "genre": "Corrida",
+  "year": "2026",
+  "version": "0.1.0",
+  "color1": "#f0a52b",
+  "color2": "#10263b",
+  "entry": "index.html"
+}
 }
