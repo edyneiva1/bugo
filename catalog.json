@@ -13,9 +13,9 @@
     {
       "id": "strak38",
       "title": "BUGO STRAK 38",
-      "description": "Tático 3D estilo Doom com bots, armas reais e compra de armas a cada rodada.",
+      "description": "Tático 3D estilo CS com bots, economia real, pulo, agachar e placar.",
       "genre": "FPS",
-      "version": "1.0",
+      "version": "1.1",
       "color1": "#ffb000",
       "color2": "#1d2b52",
       "cover": "covers/strak38-capa.png",
