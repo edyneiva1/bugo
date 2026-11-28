@@ -1,36 +1,3 @@
 {
-  "games": [
-    {
-      "id": "meteoro",
-      "title": "Meteoro",
-      "description": "Desvie dos meteoros o máximo que conseguir.",
-      "genre": "Arcade",
-      "version": "1.0",
-      "color1": "#ff7a3d",
-      "color2": "#3b1c8c",
-      "zip": "games/meteoro.zip"
-    },
-    {
-      "id": "strak38",
-      "title": "BUGO STRAK 38",
-      "description": "Tático 3D estilo CS com bots, economia real, pulo, agachar e placar.",
-      "genre": "FPS",
-      "version": "1.3",
-      "color1": "#ffb000",
-      "color2": "#1d2b52",
-      "cover": "covers/strak38-capa.png",
-      "zip": "games/strak38.zip"
-    },
-    {
-      "id": "bugo-gear-2",
-      "title": "BUGO GEAR 2",
-      "description": "BUGO GEAR 2 — Spectral 12.5 — Versão experimental. Corrida arcade 3D com campeonato, garagem e dois jogadores locais. Português e inglês.",
-      "genre": "Corrida",
-      "version": "1.0.0-rc.11-spectral.12.5",
-      "color1": "#ffc858",
-      "color2": "#302039",
-      "cover": "covers/bugo-gear-2.png",
-      "zip": "games/bugo-gear-2.zip"
-    }
-  ]
+  "games": []
 }
